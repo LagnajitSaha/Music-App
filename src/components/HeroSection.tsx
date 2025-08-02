@@ -17,7 +17,8 @@ const HeroSection: React.FC = () => {
                 >Master the art of Music</h1>
                 <p
                     className='mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'
-                >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione earum repudiandae sunt laboriosam aliquam pariatur explicabo dolor accusamus impedit minus, necessitatibus voluptatem et harum aspernatur quos delectus molestiae!
+                >
+                    Unlock your musical potential with expert-led courses, interactive lessons, and a vibrant community. Start your journey and elevate your skills today!
                 </p>
                 <div className="mt-4">
                     <Link href={"/courses"}>
