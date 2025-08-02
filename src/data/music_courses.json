@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1520167112707-56e25f2d7d6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3VpdGFyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your journey with piano through simple lessons and engaging practice.",
+      "price": 89.99,
+      "instructor": "Emily Clarke",
+      "isFeatured": false,
+      "image": "https://plus.unsplash.com/premium_photo-1673804248447-5a405ff3ddbd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGlhbm98ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 3,
+      "title": "Mastering the Violin",
+      "slug": "mastering-the-violin",
+      "description": "An intermediate course designed to refine your violin techniques and expression.",
+      "price": 119.99,
+      "instructor": "Liam Nguyen",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1585263547501-7e5a0c222010?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dmlvbGlufGVufDB8fDB8fHww"
+    },
+    {
+      "id": 4,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create your own electronic tracks using modern tools and digital audio workstations.",
+      "price": 149.99,
+      "instructor": "Sara Thompson",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWMlMjBhcHB8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 5,
+      "title": "Drumming Essentials",
+      "slug": "drumming-essentials",
+      "description": "Develop rhythm and coordination with this hands-on drumming course.",
+      "price": 79.99,
+      "instructor": "Mark Rivera",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 6,
+      "title": "Singing Techniques 101",
+      "slug": "singing-techniques-101",
+      "description": "Improve your vocal range and tone with expert-led singing exercises.",
+      "price": 109.99,
+      "instructor": "Ava Martinez",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+    }
+  ]
+}
